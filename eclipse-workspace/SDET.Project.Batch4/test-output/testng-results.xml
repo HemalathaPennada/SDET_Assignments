@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23459" started-at="2021-07-05T15:24:17Z" finished-at="2021-07-05T15:24:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23459" started-at="2021-07-05T15:24:17Z" finished-at="2021-07-05T15:24:41Z">
+      <class name="com.qa.testscripts.TestHighlights">
+        <test-method status="PASS" signature="beforeannotate()[pri:0, instance:com.qa.testscripts.TestHighlights@69ea3742]" name="beforeannotate" is-config="true" duration-ms="8009" started-at="2021-07-05T15:24:17Z" finished-at="2021-07-05T15:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeannotate -->
+        <test-method status="PASS" signature="initialTest()[pri:0, instance:com.qa.testscripts.TestHighlights@69ea3742]" name="initialTest" duration-ms="15276" started-at="2021-07-05T15:24:25Z" finished-at="2021-07-05T15:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testscripts.TestHighlights@69ea3742]" name="teardown" is-config="true" duration-ms="148" started-at="2021-07-05T15:24:41Z" finished-at="2021-07-05T15:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testscripts.TestHighlights -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
